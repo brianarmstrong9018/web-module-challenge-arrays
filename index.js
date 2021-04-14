@@ -60,7 +60,7 @@ Confirm that an array is exactly 31 flavors. Your function should accept:
     3. Your function should return a boolean TRUE if the length of the array is 31 and FALSE if the length of the array is NOT 31.
   
 
-For Example: is31Flavors(originalFlavors) will return true if your code is working properly
+For Example: is31Flavors(originalFlavors) will retrn true if your code is working properly
 */
 
 
